@@ -1,0 +1,10 @@
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\bin\Debug\Taxa Poluare.exe.config
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\bin\Debug\Taxa Poluare.exe
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\bin\Debug\Taxa Poluare.pdb
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa Poluare.csprojAssemblyReference.cache
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa_Poluare.Form1.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa_Poluare.Properties.Resources.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa Poluare.csproj.GenerateResource.cache
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa Poluare.csproj.CoreCompileInputs.cache
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa Poluare.exe
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\Tema numarul 1\Taxa Poluare\Taxa Poluare\obj\Debug\Taxa Poluare.pdb
